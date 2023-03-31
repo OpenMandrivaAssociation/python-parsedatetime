@@ -1,6 +1,6 @@
 Name:		python-parsedatetime
 Version:	2.6
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/p/parsedatetime/parsedatetime-%{version}.tar.gz
 Summary:	Parse human-readable date/time text.
 URL:		https://pypi.org/project/parsedatetime/

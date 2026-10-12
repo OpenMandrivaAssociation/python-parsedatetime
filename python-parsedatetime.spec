@@ -6,7 +6,9 @@ Summary:	Parse human-readable date/time text.
 URL:		https://pypi.org/project/parsedatetime/
 License:	Apache License 2.0
 Group:		Development/Python
+BuildRequires:	pkgconfig(python)
 BuildRequires:	python%{pyver}dist(pip)
+BuildRequires:	python%{pyver}dist(setuptools)
 BuildArch:	noarch
 
 %description
